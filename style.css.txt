@@ -42,9 +42,11 @@ h2 {
 }
 .resume-container {
   display: flex;
-  flex-direction: column; /* Or row if you prefer side-by-side pages */
+  flex-direction: column;
   gap: 20px;
   align-items: center;
+  max-width: 800px;
+  margin: auto;
 }
 
 .resume-page {

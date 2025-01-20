@@ -50,6 +50,7 @@
       <img src="assets/c3.jpg" alt="Certificate udemy">
       <p>udemy python course certificate</p>
     </div>
+  </div>
 </section>
 
   <!-- Skills -->
